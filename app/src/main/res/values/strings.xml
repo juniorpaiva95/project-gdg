@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Helpy!</string>
+    <string name="helpy">Helpy!</string>
+    <string name="descricao">Dicas de como fazer a manutenção ‘caseira’ do carro.</string>
+
+    <string name="title1">Água da bateria</string>
+    <string name="description1">Boa parte das baterias é do tipo selada, ou seja, não precisa se preocupar com a água, basta checar a luz indicadora, que determina a condição da bateria. Entretanto, se não for o seu caso, então será preciso manter no nível certo para que funcione corretamente e tenha boa durabilidade. Uma verificação mensal é o suficiente. </string>
+
+    <string name="title2">Água do radiador</string>
+    <string name="description2">A principal finalidade do radiador é refrigerar o motor, evitando o superaquecimento. Uma falha no sistema de arrefecimento, como um vazamento ou mesmo o nível baixo de água, pode causar sérios danos, como queimar juntas, velas de ignição, furar pistões e, em casos piores, fundir o motor. Para evitar isso, o correto é verificar o nível de água toda semana e uma vez por ano fazer a limpeza de todo o sistema de arrefecimento. Também é importante o uso do aditivo para água.</string>
+
+    <string name="title3">Assoalho</string>
+    <string name="description3">Todo motorista sabe o caminho que faz e os percalços que enfrenta. Se por acaso você passou por algum incidente, como um buraco mais profundo ou uma pancada em algo solto na estrada, é importante fazer uma checagem para constatar algum dano, antes que esse dano aumente e traga conseqüências desagradáveis.</string>
+
+    <string name="title4">Bateria</string>
+    <string name="description4">Além do nível da água, também é importante manter limpos os terminas da bateria. Com essas peças em ordem, a bateria armazena energia adequadamente e, em conseqüência, assegura o correto funcionamento dos equipamentos, como ar-condicionado, além da partida do motor.</string>
+
+    <string name="title5">Escapamento</string>
+    <string name="description5">O escapamento também requer cuidados. Nada complicado, apenas uma inspeção periódica a cada seis meses para verificação do estado geral, como os batentes, suportes e abraçadeiras. Se alguma peça começa a se soltar, pode danificar o escapamento, além de produzir um barulho que incomoda.</string>
+
+    <string name="title6">Extintor de incêndio</string>
+    <string name="description6">É um equipamento obrigatório que pode render uma multa se estiver ausente ou sem condições de uso. Portanto, verifique a validade e, se for o caso, faça a recarga.</string>
+
+    <string name="title7">Faróis</string>
+    <string name="description7">A visibilidade é antes de tudo um fator de segurança no trânsito. Desse modo, é imprescindível manter os faróis e setas em funcionamento. Adote o hábito de periodicamente verificar se alguma lâmpada do farol está queimada. Vale lembrar que lâmpada inoperante é passível de multa.</string>
+
+    <string name="botao">Faça o Check!</string>
+
+    <string name="instrucao">Faça o check no seu veículo marcando as opções correspondentes:</string>
+
+    <string name="status">Você não está pronto para viajar!</string>
+</resources>
